@@ -46,7 +46,7 @@
 
 **🛡️ 职业信条**  
 
-构建好世界一流的安全能力，然后一招制敌：“你过来啊！”
+构建好世界一流的安全能力，一阳指天下无敌：“你过来啊！”
 
 <!---
 litcu/litcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
